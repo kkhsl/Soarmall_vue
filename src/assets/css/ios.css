@@ -1,0 +1,55 @@
+/* input弹键盘 */
+.position_i{
+  position: absolute;
+}
+.search_i{
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+ 
+
+.to_scroll_i{
+  height: calc(100vh - 6.94rem) !important;
+}
+.wrapper_i{
+  height: calc(100vh - 2.5rem) !important;
+}
+.to_remove_i{
+  top: 0.5rem;
+}
+.top_search_i{
+  max-height: calc(100vh - 1.8rem);
+}
+.height_hear_i{
+  height: 1.5rem;
+}
+.padding_hear_i{
+  padding-top:0.6rem !important;
+}
+.height_detail_i{
+  height: 0.7rem;
+}
+.top_hear_i{
+  top:0.7rem;
+}
+.top_login_i{
+  margin-top: 0.6rem;
+}
+.height_foot_i{
+  height:calc(100vh - 1.5rem) !important;
+}
+ .height_foot1_i{
+  height:calc(100vh - 2rem) !important;
+}
+.height_foot2_i{
+  height:calc(100vh - 1rem) !important;
+}
+.top_order_hear_i{
+  padding-top: 0.6rem;
+}
+.content_center_i {
+  height: calc(100vh - 2.5rem) !important;
+}

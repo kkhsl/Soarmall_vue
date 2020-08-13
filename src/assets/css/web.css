@@ -1,0 +1,73 @@
+/* input弹键盘 */
+.position_w{
+    position: absolute;
+  }
+  .search_w{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+  }
+  
+  /* 底部 */
+  .tabbar1_w{
+    position: fixed;
+    z-index: 6;
+    width: 100%;
+    max-width: 768px;
+    left: 50%;
+    transform: translate(-50%,0);
+    bottom: 0;
+  }
+  .padd_bot_w{
+    padding-bottom: 9vh;
+    box-sizing: border-box;
+  }
+    
+  
+  .to_scroll_w{
+    height: calc(100vh - 6.04rem) !important;
+  }
+  .wrapper_w{
+    height: calc(100vh - 1.8rem) !important;
+  }
+  .to_remove_w{
+    top: 0.5rem;
+  }
+  .to_name_w{
+    top: 0rem;
+  }
+  .top_search_w{
+    max-height: calc(100vh - 1rem);
+  }
+  .height_hear_w{
+    height: 0.8rem;
+  }
+  .padding_hear_w{
+    /* padding-top:0.8rem !important; */
+  }
+  .height_detail_w{
+    /* height: 0.7rem; */
+  }
+  .top_hear_w{
+    top:0.7rem;
+  }
+  .top_login_w{
+    margin-top: 0.6rem;
+  }
+  .height_foot_w{
+    height:calc(100vh - 1.7rem) !important;
+  }
+   .height_foot1_w{
+    height:calc(100vh - 1.2rem);
+  }
+  .height_foot2_w{
+    height:calc(100vh - 1rem) !important;
+  }
+  .top_order_hear_w{
+    padding-top: 0.1rem;
+  }
+  .content_center_w {
+    height: calc(100vh - 1.7rem) !important;
+  }
+  
